@@ -11,10 +11,15 @@ This sort of task is called regression. To train the system, you need to give it
 Below are the most popular and widely used supervised algprithm:
 
 • k-Nearest Neighbors
+
 • Linear Regression
+
 • Logistic Regression
+
 • Support Vector Machines (SVMs)
+
 • Decision Trees and Random Forests
+
 • Neural networks
 
 ![image](https://user-images.githubusercontent.com/58495173/110147186-54adf900-7e16-11eb-8461-445103903657.png)
